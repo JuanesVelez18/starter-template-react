@@ -1,4 +1,12 @@
 # Template React Gen 23 - 1
+Esta template fue construida en clase, y es una forma rapida de iniciar un proyecto con las siguientes dependencias ya configuradas:
+- ESLint
+- Prettier
+- Tailwind
+- Axios
+
+## Usar template
+
 Para hacer uso de esta template, asegurate de tener git instalado y escribe el siguiente comando en tu terminal:
 ```bash
 git clone https://github.com/JuanesVelez18/starter-template-react.git

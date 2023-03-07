@@ -4,7 +4,7 @@ import academloLogo from './assets/academlo-icon-shadow.png';
 
 const App = () => {
   return (
-    <div className="h-full flex flex-col justify-center items-center p-10">
+    <div className="bg-neutral-800 h-screen flex flex-col justify-center items-center p-10 text-white">
       <div className="max-w-7xl flex flex-col md:flex-row gap-5">
         <a
           className="float md:basis-1/3 hover:drop-shadow-[0_0_2rem_#d8272780] flex justify-center items-center"
